@@ -1,0 +1,7 @@
+judul
+slug
+kategori
+dibutuhkan
+terkumpul
+jumlah_hari
+pengirim

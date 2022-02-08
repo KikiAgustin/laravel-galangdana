@@ -1,0 +1,3 @@
+database : galangda_galangdana
+username : galangda_galangdana
+password : B6MM8909QRV9M0C
